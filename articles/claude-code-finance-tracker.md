@@ -1,5 +1,5 @@
 ---
-title: "コード0行、3日。Claude Codeで自分専用の資産管理アプリを作った"
+title: "Claude Codeで資産管理ツールを作った"
 emoji: "💰"
 type: "idea"
 topics: ["claudecode", "個人開発", "nextjs", "資産管理", "aiツール"]
